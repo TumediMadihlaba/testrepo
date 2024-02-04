@@ -3,7 +3,7 @@
 
 # # Data Science Tools and Ecosystem
 
-# **Onjectives:**
+# **Objectives:**
 
 # * Create a Jupyter Notebook
 # * Insert code and markdown cells
